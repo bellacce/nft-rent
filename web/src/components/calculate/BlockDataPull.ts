@@ -58,8 +58,6 @@ async function main() {
             toBlock: endBlock
         });
         startBlock = endBlock + BigInt(1);
-
-
         const logs = await client.getFilterLogs({ filter });
 
         //// 从  转账给  99.12345 USDC ,
