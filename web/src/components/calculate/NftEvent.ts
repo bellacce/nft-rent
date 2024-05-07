@@ -1,6 +1,5 @@
 import { createPublicClient, webSocket, parseAbiItem, http } from "viem";
 import { mainnet } from "viem/chains";
-import { publicClient } from "./SocketClient"
 
 import {
     parseAbi,
@@ -13,15 +12,13 @@ import { resolve } from "path";
 
 export const PARTICLE_NETWORK_NODE = process.env.PARTICLE_NETWORK_NODE;
 
+//需求内容：
+// 监控 NFTFactory 合约 event NFTCreated(address nftCA); 事件中所有新部署的 nft 合约。
+// 最终将事件中的 nft 合约下用户持仓信息记录到 TheGraph中，用户NFT持仓表对象如下
 
-const abi = parseAbi([
-    "function name() public view returns (string memory)",
-    "function balance0f(address owner) view returns (uint256)",
-    "function transfer(address to, uint256 value) public returns (bool)",
-    "event Transfer(address indexed from, address indexed to, uint256 amount)"
-]);
-
-
+//设置基础基准信息
+const contractAddress = "0xdAC17F958D2ee523a2206206994597C13D831ec7";
+const nftCreatedEvent = "event NFTCreated(address nftCA)";
 
 const client = createPublicClient({
     chain: mainnet,
@@ -29,15 +26,6 @@ const client = createPublicClient({
     transport: http(PARTICLE_NETWORK_NODE)
 });
 
-// 编码ABI
-// const encodeData = encodePacked(
-//     ["address", "uint256"],
-//     ["0xFb19ffd1Ff9316b7f5Bba076eF4b78E4bBeDf4E1", BigInt(753000000)]
-// );
-// console.log("encodeData;", encodeData);
-
-// const decodeDatas = decodeAbiParameters(abi[2].inputs, encodeData);
-// console.log("decodeDatas:", decodeDatas);
 
 async function main() {
     let startBlock = await client.getBlockNumber();
@@ -74,16 +62,5 @@ async function main() {
     }
 
 }
-
-//事件监听
-const unwatch = publicClient.watchEvent({
-    address: '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48',
-    event: parseAbiItem('event Transfer(address indexed from, address indexed to, uint256 value)'),
-    args: {
-        from: '0xd8da6bf26964af9d7eed9e03e53415d37aa96045',
-        to: '0xa5cc3c03994db5b0d9a5eedd10cabab0813678ac'
-    },
-    onLogs: logs => console.log(logs)
-})
 
 main().catch((err) => console.log(err));
