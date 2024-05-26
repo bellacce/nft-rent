@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "JFK International Airport",
+    "city": "New York"
+  },
+  {
+    "id": 2,
+    "name": "Los Angeles International Airport",
+    "city": "Los Angeles"
+  },
+  {
+    "id": 3,
+    "name": "Chicago O'Hare International Airport",
+    "city": "Chicago"
+  },
+  {
+    "id": 4,
+    "name": "San Francisco International Airport",
+    "city": "San Francisco"
+  },
+  {
+    "id": 5,
+    "name": "Miami International Airport",
+    "city": "Miami"
+  },
+  {
+    "id": 6,
+    "name": "Hartsfield-Jackson Atlanta International Airport",
+    "city": "Atlanta"
+  },
+  {
+    "id": 7,
+    "name": "Dallas/Fort Worth International Airport",
+    "city": "Dallas"
+  },
+  {
+    "id": 8,
+    "name": "Denver International Airport",
+    "city": "Denver"
+  },
+  {
+    "id": 9,
+    "name": "Seattle-Tacoma International Airport",
+    "city": "Seattle"
+  },
+  {
+    "id": 10,
+    "name": "Orlando International Airport",
+    "city": "Orlando"
+  }
+]

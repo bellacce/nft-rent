@@ -1,5 +1,5 @@
 # nft-rent
 
-数据查询
-    tokenInfos: 表名
 ![alt text](image.png)
+
+提示信息： tokenInfos 表示表名

@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "airportId": 10,
+    "date": "2024-05-27",
+    "flightNumber": "DL5281",
+    "destination": "Chicago"
+  },
+  {
+    "id": 2,
+    "airportId": 3,
+    "date": "2024-06-16",
+    "flightNumber": "SW8632",
+    "destination": "Detroit"
+  },
+  {
+    "id": 3,
+    "airportId": 7,
+    "date": "2024-07-06",
+    "flightNumber": "UA4067",
+    "destination": "Chicago"
+  },
+  {
+    "id": 4,
+    "airportId": 1,
+    "date": "2024-06-07",
+    "flightNumber": "AA4068",
+    "destination": "Las Vegas"
+  },
+  {
+    "id": 5,
+    "airportId": 4,
+    "date": "2024-08-05",
+    "flightNumber": "DL8584",
+    "destination": "Houston"
+  },
+  {
+    "id": 6,
+    "airportId": 9,
+    "date": "2024-08-12",
+    "flightNumber": "BA9746",
+    "destination": "Miami"
+  },
+  {
+    "id": 7,
+    "airportId": 4,
+    "date": "2024-06-09",
+    "flightNumber": "DL6696",
+    "destination": "Orlando"
+  },
+  {
+    "id": 8,
+    "airportId": 10,
+    "date": "2024-05-30",
+    "flightNumber": "AA2223",
+    "destination": "Denver"
+  },
+  {
+    "id": 9,
+    "airportId": 10,
+    "date": "2024-07-09",
+    "flightNumber": "DL2202",
+    "destination": "Los Angeles"
+  },
+  {
+    "id": 10,
+    "airportId": 8,
+    "date": "2024-07-08",
+    "flightNumber": "DL2263",
+    "destination": "Dallas"
+  },
+  {
+    "id": 11,
+    "airportId": 2,
+    "date": "2024-07-15",
+    "flightNumber": "BA2701",
+    "destination": "Boston"
+  },
+  {
+    "id": 12,
+    "airportId": 1,
+    "date": "2024-06-12",
+    "flightNumber": "DL4794",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 13,
+    "airportId": 6,
+    "date": "2024-05-30",
+    "flightNumber": "UA4543",
+    "destination": "Washington"
+  },
+  {
+    "id": 14,
+    "airportId": 3,
+    "date": "2024-06-11",
+    "flightNumber": "UA3457",
+    "destination": "Dallas"
+  },
+  {
+    "id": 15,
+    "airportId": 6,
+    "date": "2024-06-18",
+    "flightNumber": "BA2431",
+    "destination": "Denver"
+  },
+  {
+    "id": 16,
+    "airportId": 6,
+    "date": "2024-07-16",
+    "flightNumber": "BA2199",
+    "destination": "Houston"
+  },
+  {
+    "id": 17,
+    "airportId": 4,
+    "date": "2024-06-23",
+    "flightNumber": "SW2453",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 18,
+    "airportId": 3,
+    "date": "2024-07-20",
+    "flightNumber": "AA6044",
+    "destination": "Houston"
+  },
+  {
+    "id": 19,
+    "airportId": 5,
+    "date": "2024-07-20",
+    "flightNumber": "BA1200",
+    "destination": "New York"
+  },
+  {
+    "id": 20,
+    "airportId": 1,
+    "date": "2024-07-13",
+    "flightNumber": "UA9530",
+    "destination": "San Antonio"
+  },
+  {
+    "id": 21,
+    "airportId": 9,
+    "date": "2024-07-04",
+    "flightNumber": "DL4454",
+    "destination": "Detroit"
+  },
+  {
+    "id": 22,
+    "airportId": 9,
+    "date": "2024-07-20",
+    "flightNumber": "AA6403",
+    "destination": "Houston"
+  },
+  {
+    "id": 23,
+    "airportId": 7,
+    "date": "2024-08-01",
+    "flightNumber": "AA8934",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 24,
+    "airportId": 2,
+    "date": "2024-08-04",
+    "flightNumber": "AA6315",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 25,
+    "airportId": 3,
+    "date": "2024-07-20",
+    "flightNumber": "BA7095",
+    "destination": "Los Angeles"
+  },
+  {
+    "id": 26,
+    "airportId": 2,
+    "date": "2024-08-09",
+    "flightNumber": "SW5129",
+    "destination": "San Antonio"
+  },
+  {
+    "id": 27,
+    "airportId": 1,
+    "date": "2024-06-20",
+    "flightNumber": "BA5475",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 28,
+    "airportId": 2,
+    "date": "2024-07-11",
+    "flightNumber": "UA1605",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 29,
+    "airportId": 7,
+    "date": "2024-08-02",
+    "flightNumber": "BA2257",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 30,
+    "airportId": 1,
+    "date": "2024-07-27",
+    "flightNumber": "SW6150",
+    "destination": "Washington"
+  },
+  {
+    "id": 31,
+    "airportId": 6,
+    "date": "2024-08-05",
+    "flightNumber": "DL7575",
+    "destination": "Las Vegas"
+  },
+  {
+    "id": 32,
+    "airportId": 1,
+    "date": "2024-06-21",
+    "flightNumber": "UA1874",
+    "destination": "Chicago"
+  },
+  {
+    "id": 33,
+    "airportId": 6,
+    "date": "2024-08-20",
+    "flightNumber": "AA3278",
+    "destination": "Los Angeles"
+  },
+  {
+    "id": 34,
+    "airportId": 4,
+    "date": "2024-07-16",
+    "flightNumber": "AA9429",
+    "destination": "Las Vegas"
+  },
+  {
+    "id": 35,
+    "airportId": 10,
+    "date": "2024-08-16",
+    "flightNumber": "BA9490",
+    "destination": "Detroit"
+  },
+  {
+    "id": 36,
+    "airportId": 7,
+    "date": "2024-06-26",
+    "flightNumber": "UA9563",
+    "destination": "San Diego"
+  },
+  {
+    "id": 37,
+    "airportId": 7,
+    "date": "2024-06-11",
+    "flightNumber": "DL2676",
+    "destination": "Miami"
+  },
+  {
+    "id": 38,
+    "airportId": 7,
+    "date": "2024-06-24",
+    "flightNumber": "SW7138",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 39,
+    "airportId": 2,
+    "date": "2024-07-24",
+    "flightNumber": "UA2709",
+    "destination": "Boston"
+  },
+  {
+    "id": 40,
+    "airportId": 7,
+    "date": "2024-07-25",
+    "flightNumber": "AA1775",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 41,
+    "airportId": 1,
+    "date": "2024-08-19",
+    "flightNumber": "AA9580",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 42,
+    "airportId": 9,
+    "date": "2024-05-29",
+    "flightNumber": "BA7163",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 43,
+    "airportId": 5,
+    "date": "2024-08-04",
+    "flightNumber": "BA8875",
+    "destination": "Orlando"
+  },
+  {
+    "id": 44,
+    "airportId": 7,
+    "date": "2024-07-20",
+    "flightNumber": "AA3844",
+    "destination": "Orlando"
+  },
+  {
+    "id": 45,
+    "airportId": 10,
+    "date": "2024-06-10",
+    "flightNumber": "AA5632",
+    "destination": "Houston"
+  },
+  {
+    "id": 46,
+    "airportId": 7,
+    "date": "2024-06-11",
+    "flightNumber": "AA6504",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 47,
+    "airportId": 4,
+    "date": "2024-08-14",
+    "flightNumber": "AA5202",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 48,
+    "airportId": 5,
+    "date": "2024-08-04",
+    "flightNumber": "UA9412",
+    "destination": "New York"
+  },
+  {
+    "id": 49,
+    "airportId": 4,
+    "date": "2024-08-13",
+    "flightNumber": "BA1326",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 50,
+    "airportId": 8,
+    "date": "2024-08-25",
+    "flightNumber": "BA7467",
+    "destination": "New York"
+  },
+  {
+    "id": 51,
+    "airportId": 1,
+    "date": "2024-07-02",
+    "flightNumber": "UA3720",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 52,
+    "airportId": 9,
+    "date": "2024-06-23",
+    "flightNumber": "DL8733",
+    "destination": "Detroit"
+  },
+  {
+    "id": 53,
+    "airportId": 6,
+    "date": "2024-06-08",
+    "flightNumber": "UA9857",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 54,
+    "airportId": 1,
+    "date": "2024-08-13",
+    "flightNumber": "SW3618",
+    "destination": "San Antonio"
+  },
+  {
+    "id": 55,
+    "airportId": 8,
+    "date": "2024-07-21",
+    "flightNumber": "DL6907",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 56,
+    "airportId": 9,
+    "date": "2024-06-26",
+    "flightNumber": "UA9339",
+    "destination": "Denver"
+  },
+  {
+    "id": 57,
+    "airportId": 2,
+    "date": "2024-07-18",
+    "flightNumber": "DL6427",
+    "destination": "San Antonio"
+  },
+  {
+    "id": 58,
+    "airportId": 9,
+    "date": "2024-07-12",
+    "flightNumber": "BA7635",
+    "destination": "Chicago"
+  },
+  {
+    "id": 59,
+    "airportId": 8,
+    "date": "2024-07-07",
+    "flightNumber": "SW1992",
+    "destination": "Boston"
+  },
+  {
+    "id": 60,
+    "airportId": 4,
+    "date": "2024-07-28",
+    "flightNumber": "AA5596",
+    "destination": "Houston"
+  },
+  {
+    "id": 61,
+    "airportId": 2,
+    "date": "2024-08-18",
+    "flightNumber": "SW7518",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 62,
+    "airportId": 9,
+    "date": "2024-08-12",
+    "flightNumber": "AA3463",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 63,
+    "airportId": 4,
+    "date": "2024-07-07",
+    "flightNumber": "DL2126",
+    "destination": "San Diego"
+  },
+  {
+    "id": 64,
+    "airportId": 1,
+    "date": "2024-06-06",
+    "flightNumber": "SW9718",
+    "destination": "Houston"
+  },
+  {
+    "id": 65,
+    "airportId": 6,
+    "date": "2024-06-05",
+    "flightNumber": "SW2912",
+    "destination": "Boston"
+  },
+  {
+    "id": 66,
+    "airportId": 1,
+    "date": "2024-08-04",
+    "flightNumber": "SW5695",
+    "destination": "Dallas"
+  },
+  {
+    "id": 67,
+    "airportId": 5,
+    "date": "2024-06-26",
+    "flightNumber": "DL7229",
+    "destination": "Detroit"
+  },
+  {
+    "id": 68,
+    "airportId": 3,
+    "date": "2024-06-14",
+    "flightNumber": "BA4695",
+    "destination": "San Diego"
+  },
+  {
+    "id": 69,
+    "airportId": 1,
+    "date": "2024-06-06",
+    "flightNumber": "SW9493",
+    "destination": "San Diego"
+  },
+  {
+    "id": 70,
+    "airportId": 5,
+    "date": "2024-06-24",
+    "flightNumber": "UA7150",
+    "destination": "Washington"
+  },
+  {
+    "id": 71,
+    "airportId": 3,
+    "date": "2024-06-17",
+    "flightNumber": "DL6929",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 72,
+    "airportId": 7,
+    "date": "2024-07-09",
+    "flightNumber": "AA6703",
+    "destination": "Boston"
+  },
+  {
+    "id": 73,
+    "airportId": 8,
+    "date": "2024-06-19",
+    "flightNumber": "BA9230",
+    "destination": "Houston"
+  },
+  {
+    "id": 74,
+    "airportId": 7,
+    "date": "2024-07-05",
+    "flightNumber": "BA2686",
+    "destination": "Detroit"
+  },
+  {
+    "id": 75,
+    "airportId": 3,
+    "date": "2024-07-05",
+    "flightNumber": "SW9344",
+    "destination": "Miami"
+  },
+  {
+    "id": 76,
+    "airportId": 10,
+    "date": "2024-08-17",
+    "flightNumber": "UA7244",
+    "destination": "Washington"
+  },
+  {
+    "id": 77,
+    "airportId": 1,
+    "date": "2024-07-28",
+    "flightNumber": "AA2548",
+    "destination": "Boston"
+  },
+  {
+    "id": 78,
+    "airportId": 2,
+    "date": "2024-08-16",
+    "flightNumber": "DL5905",
+    "destination": "Orlando"
+  },
+  {
+    "id": 79,
+    "airportId": 2,
+    "date": "2024-06-29",
+    "flightNumber": "DL6332",
+    "destination": "Denver"
+  },
+  {
+    "id": 80,
+    "airportId": 5,
+    "date": "2024-06-21",
+    "flightNumber": "DL8224",
+    "destination": "San Diego"
+  },
+  {
+    "id": 81,
+    "airportId": 9,
+    "date": "2024-05-27",
+    "flightNumber": "AA3900",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 82,
+    "airportId": 5,
+    "date": "2024-08-11",
+    "flightNumber": "BA5849",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 83,
+    "airportId": 8,
+    "date": "2024-06-07",
+    "flightNumber": "BA9373",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 84,
+    "airportId": 3,
+    "date": "2024-08-03",
+    "flightNumber": "UA4600",
+    "destination": "Detroit"
+  },
+  {
+    "id": 85,
+    "airportId": 10,
+    "date": "2024-06-08",
+    "flightNumber": "DL1015",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 86,
+    "airportId": 1,
+    "date": "2024-07-02",
+    "flightNumber": "UA6684",
+    "destination": "Las Vegas"
+  },
+  {
+    "id": 87,
+    "airportId": 5,
+    "date": "2024-06-06",
+    "flightNumber": "BA9609",
+    "destination": "San Diego"
+  },
+  {
+    "id": 88,
+    "airportId": 1,
+    "date": "2024-08-05",
+    "flightNumber": "UA3256",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 89,
+    "airportId": 6,
+    "date": "2024-05-27",
+    "flightNumber": "SW3512",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 90,
+    "airportId": 8,
+    "date": "2024-07-14",
+    "flightNumber": "AA9239",
+    "destination": "San Antonio"
+  },
+  {
+    "id": 91,
+    "airportId": 4,
+    "date": "2024-06-14",
+    "flightNumber": "AA9967",
+    "destination": "Miami"
+  },
+  {
+    "id": 92,
+    "airportId": 3,
+    "date": "2024-08-15",
+    "flightNumber": "AA7836",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 93,
+    "airportId": 10,
+    "date": "2024-05-31",
+    "flightNumber": "UA9019",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 94,
+    "airportId": 10,
+    "date": "2024-07-20",
+    "flightNumber": "DL3131",
+    "destination": "San Diego"
+  },
+  {
+    "id": 95,
+    "airportId": 4,
+    "date": "2024-08-12",
+    "flightNumber": "AA6345",
+    "destination": "Las Vegas"
+  },
+  {
+    "id": 96,
+    "airportId": 3,
+    "date": "2024-07-12",
+    "flightNumber": "UA4740",
+    "destination": "Chicago"
+  },
+  {
+    "id": 97,
+    "airportId": 9,
+    "date": "2024-08-24",
+    "flightNumber": "UA5445",
+    "destination": "Los Angeles"
+  },
+  {
+    "id": 98,
+    "airportId": 2,
+    "date": "2024-06-27",
+    "flightNumber": "SW6389",
+    "destination": "San Diego"
+  },
+  {
+    "id": 99,
+    "airportId": 4,
+    "date": "2024-08-05",
+    "flightNumber": "BA7432",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 100,
+    "airportId": 10,
+    "date": "2024-06-15",
+    "flightNumber": "DL5070",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 101,
+    "airportId": 1,
+    "date": "2024-08-19",
+    "flightNumber": "BA4089",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 102,
+    "airportId": 7,
+    "date": "2024-07-07",
+    "flightNumber": "UA1898",
+    "destination": "Boston"
+  },
+  {
+    "id": 103,
+    "airportId": 8,
+    "date": "2024-08-13",
+    "flightNumber": "UA7205",
+    "destination": "Chicago"
+  },
+  {
+    "id": 104,
+    "airportId": 1,
+    "date": "2024-08-11",
+    "flightNumber": "UA5732",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 105,
+    "airportId": 4,
+    "date": "2024-06-24",
+    "flightNumber": "DL6865",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 106,
+    "airportId": 6,
+    "date": "2024-07-11",
+    "flightNumber": "AA7020",
+    "destination": "New York"
+  },
+  {
+    "id": 107,
+    "airportId": 1,
+    "date": "2024-06-14",
+    "flightNumber": "UA5985",
+    "destination": "Denver"
+  },
+  {
+    "id": 108,
+    "airportId": 2,
+    "date": "2024-08-19",
+    "flightNumber": "BA5473",
+    "destination": "San Diego"
+  },
+  {
+    "id": 109,
+    "airportId": 10,
+    "date": "2024-06-11",
+    "flightNumber": "DL3355",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 110,
+    "airportId": 5,
+    "date": "2024-06-16",
+    "flightNumber": "SW2027",
+    "destination": "Los Angeles"
+  },
+  {
+    "id": 111,
+    "airportId": 2,
+    "date": "2024-06-21",
+    "flightNumber": "BA5502",
+    "destination": "New York"
+  },
+  {
+    "id": 112,
+    "airportId": 3,
+    "date": "2024-06-03",
+    "flightNumber": "SW1228",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 113,
+    "airportId": 1,
+    "date": "2024-08-15",
+    "flightNumber": "BA1475",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 114,
+    "airportId": 3,
+    "date": "2024-07-08",
+    "flightNumber": "DL5748",
+    "destination": "Boston"
+  },
+  {
+    "id": 115,
+    "airportId": 1,
+    "date": "2024-06-24",
+    "flightNumber": "UA4349",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 116,
+    "airportId": 9,
+    "date": "2024-08-06",
+    "flightNumber": "DL8327",
+    "destination": "Los Angeles"
+  },
+  {
+    "id": 117,
+    "airportId": 3,
+    "date": "2024-06-24",
+    "flightNumber": "BA7012",
+    "destination": "Miami"
+  },
+  {
+    "id": 118,
+    "airportId": 8,
+    "date": "2024-08-23",
+    "flightNumber": "BA8286",
+    "destination": "San Antonio"
+  },
+  {
+    "id": 119,
+    "airportId": 9,
+    "date": "2024-07-01",
+    "flightNumber": "BA8544",
+    "destination": "Las Vegas"
+  },
+  {
+    "id": 120,
+    "airportId": 7,
+    "date": "2024-07-12",
+    "flightNumber": "DL7655",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 121,
+    "airportId": 6,
+    "date": "2024-08-11",
+    "flightNumber": "AA2205",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 122,
+    "airportId": 9,
+    "date": "2024-07-17",
+    "flightNumber": "BA8779",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 123,
+    "airportId": 8,
+    "date": "2024-07-02",
+    "flightNumber": "BA1785",
+    "destination": "Detroit"
+  },
+  {
+    "id": 124,
+    "airportId": 9,
+    "date": "2024-08-08",
+    "flightNumber": "AA1581",
+    "destination": "Washington"
+  },
+  {
+    "id": 125,
+    "airportId": 5,
+    "date": "2024-05-30",
+    "flightNumber": "BA9945",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 126,
+    "airportId": 4,
+    "date": "2024-05-26",
+    "flightNumber": "BA7175",
+    "destination": "Dallas"
+  },
+  {
+    "id": 127,
+    "airportId": 3,
+    "date": "2024-06-14",
+    "flightNumber": "SW1472",
+    "destination": "Denver"
+  },
+  {
+    "id": 128,
+    "airportId": 2,
+    "date": "2024-07-29",
+    "flightNumber": "AA2076",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 129,
+    "airportId": 8,
+    "date": "2024-06-20",
+    "flightNumber": "SW8928",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 130,
+    "airportId": 5,
+    "date": "2024-08-04",
+    "flightNumber": "SW8088",
+    "destination": "Washington"
+  },
+  {
+    "id": 131,
+    "airportId": 8,
+    "date": "2024-06-11",
+    "flightNumber": "UA2781",
+    "destination": "San Antonio"
+  },
+  {
+    "id": 132,
+    "airportId": 6,
+    "date": "2024-06-23",
+    "flightNumber": "SW3995",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 133,
+    "airportId": 9,
+    "date": "2024-07-29",
+    "flightNumber": "SW8583",
+    "destination": "Houston"
+  },
+  {
+    "id": 134,
+    "airportId": 3,
+    "date": "2024-06-27",
+    "flightNumber": "UA1859",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 135,
+    "airportId": 3,
+    "date": "2024-08-23",
+    "flightNumber": "BA5293",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 136,
+    "airportId": 7,
+    "date": "2024-07-11",
+    "flightNumber": "DL9556",
+    "destination": "New York"
+  },
+  {
+    "id": 137,
+    "airportId": 9,
+    "date": "2024-08-13",
+    "flightNumber": "UA4334",
+    "destination": "Houston"
+  },
+  {
+    "id": 138,
+    "airportId": 5,
+    "date": "2024-07-22",
+    "flightNumber": "BA9789",
+    "destination": "New York"
+  },
+  {
+    "id": 139,
+    "airportId": 7,
+    "date": "2024-07-20",
+    "flightNumber": "SW5297",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 140,
+    "airportId": 5,
+    "date": "2024-07-16",
+    "flightNumber": "AA5882",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 141,
+    "airportId": 4,
+    "date": "2024-06-23",
+    "flightNumber": "AA4685",
+    "destination": "Los Angeles"
+  },
+  {
+    "id": 142,
+    "airportId": 9,
+    "date": "2024-06-22",
+    "flightNumber": "DL8562",
+    "destination": "Miami"
+  },
+  {
+    "id": 143,
+    "airportId": 4,
+    "date": "2024-06-30",
+    "flightNumber": "SW2513",
+    "destination": "Denver"
+  },
+  {
+    "id": 144,
+    "airportId": 8,
+    "date": "2024-08-13",
+    "flightNumber": "AA6457",
+    "destination": "Dallas"
+  },
+  {
+    "id": 145,
+    "airportId": 7,
+    "date": "2024-08-19",
+    "flightNumber": "DL6551",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 146,
+    "airportId": 6,
+    "date": "2024-06-30",
+    "flightNumber": "AA9985",
+    "destination": "Orlando"
+  },
+  {
+    "id": 147,
+    "airportId": 2,
+    "date": "2024-06-16",
+    "flightNumber": "DL8454",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 148,
+    "airportId": 4,
+    "date": "2024-07-23",
+    "flightNumber": "DL3328",
+    "destination": "Orlando"
+  },
+  {
+    "id": 149,
+    "airportId": 8,
+    "date": "2024-08-17",
+    "flightNumber": "BA1542",
+    "destination": "Washington"
+  },
+  {
+    "id": 150,
+    "airportId": 5,
+    "date": "2024-06-26",
+    "flightNumber": "BA9723",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 151,
+    "airportId": 3,
+    "date": "2024-08-16",
+    "flightNumber": "SW5308",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 152,
+    "airportId": 8,
+    "date": "2024-06-15",
+    "flightNumber": "DL4179",
+    "destination": "Los Angeles"
+  },
+  {
+    "id": 153,
+    "airportId": 4,
+    "date": "2024-06-09",
+    "flightNumber": "AA8003",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 154,
+    "airportId": 8,
+    "date": "2024-05-28",
+    "flightNumber": "BA7126",
+    "destination": "Los Angeles"
+  },
+  {
+    "id": 155,
+    "airportId": 9,
+    "date": "2024-05-29",
+    "flightNumber": "DL8759",
+    "destination": "Boston"
+  },
+  {
+    "id": 156,
+    "airportId": 8,
+    "date": "2024-06-20",
+    "flightNumber": "BA7809",
+    "destination": "Detroit"
+  },
+  {
+    "id": 157,
+    "airportId": 9,
+    "date": "2024-06-04",
+    "flightNumber": "UA6911",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 158,
+    "airportId": 9,
+    "date": "2024-07-25",
+    "flightNumber": "UA8839",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 159,
+    "airportId": 10,
+    "date": "2024-05-30",
+    "flightNumber": "SW3779",
+    "destination": "Houston"
+  },
+  {
+    "id": 160,
+    "airportId": 7,
+    "date": "2024-06-23",
+    "flightNumber": "SW6406",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 161,
+    "airportId": 5,
+    "date": "2024-05-27",
+    "flightNumber": "SW1542",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 162,
+    "airportId": 6,
+    "date": "2024-06-28",
+    "flightNumber": "DL2884",
+    "destination": "Houston"
+  },
+  {
+    "id": 163,
+    "airportId": 7,
+    "date": "2024-06-20",
+    "flightNumber": "UA4458",
+    "destination": "Los Angeles"
+  },
+  {
+    "id": 164,
+    "airportId": 1,
+    "date": "2024-08-07",
+    "flightNumber": "BA3547",
+    "destination": "Miami"
+  },
+  {
+    "id": 165,
+    "airportId": 10,
+    "date": "2024-06-19",
+    "flightNumber": "AA7755",
+    "destination": "Dallas"
+  },
+  {
+    "id": 166,
+    "airportId": 4,
+    "date": "2024-07-13",
+    "flightNumber": "DL5344",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 167,
+    "airportId": 5,
+    "date": "2024-07-07",
+    "flightNumber": "BA2260",
+    "destination": "San Diego"
+  },
+  {
+    "id": 168,
+    "airportId": 4,
+    "date": "2024-08-17",
+    "flightNumber": "AA3158",
+    "destination": "Houston"
+  },
+  {
+    "id": 169,
+    "airportId": 9,
+    "date": "2024-06-12",
+    "flightNumber": "DL5748",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 170,
+    "airportId": 3,
+    "date": "2024-08-05",
+    "flightNumber": "AA8651",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 171,
+    "airportId": 2,
+    "date": "2024-08-07",
+    "flightNumber": "BA1083",
+    "destination": "Seattle"
+  },
+  {
+    "id": 172,
+    "airportId": 7,
+    "date": "2024-07-11",
+    "flightNumber": "UA4380",
+    "destination": "Seattle"
+  },
+  {
+    "id": 173,
+    "airportId": 3,
+    "date": "2024-06-22",
+    "flightNumber": "BA2742",
+    "destination": "San Antonio"
+  },
+  {
+    "id": 174,
+    "airportId": 7,
+    "date": "2024-08-23",
+    "flightNumber": "UA6798",
+    "destination": "San Antonio"
+  },
+  {
+    "id": 175,
+    "airportId": 10,
+    "date": "2024-08-07",
+    "flightNumber": "BA4619",
+    "destination": "Seattle"
+  },
+  {
+    "id": 176,
+    "airportId": 10,
+    "date": "2024-08-11",
+    "flightNumber": "BA7091",
+    "destination": "Denver"
+  },
+  {
+    "id": 177,
+    "airportId": 10,
+    "date": "2024-07-24",
+    "flightNumber": "AA4298",
+    "destination": "Las Vegas"
+  },
+  {
+    "id": 178,
+    "airportId": 7,
+    "date": "2024-08-11",
+    "flightNumber": "SW6719",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 179,
+    "airportId": 6,
+    "date": "2024-06-09",
+    "flightNumber": "AA5879",
+    "destination": "Houston"
+  },
+  {
+    "id": 180,
+    "airportId": 9,
+    "date": "2024-06-03",
+    "flightNumber": "UA4485",
+    "destination": "Orlando"
+  },
+  {
+    "id": 181,
+    "airportId": 7,
+    "date": "2024-08-23",
+    "flightNumber": "SW5582",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 182,
+    "airportId": 7,
+    "date": "2024-07-14",
+    "flightNumber": "SW1764",
+    "destination": "Seattle"
+  },
+  {
+    "id": 183,
+    "airportId": 1,
+    "date": "2024-07-04",
+    "flightNumber": "AA1719",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 184,
+    "airportId": 2,
+    "date": "2024-06-03",
+    "flightNumber": "UA9834",
+    "destination": "San Antonio"
+  },
+  {
+    "id": 185,
+    "airportId": 4,
+    "date": "2024-06-02",
+    "flightNumber": "UA2839",
+    "destination": "Seattle"
+  },
+  {
+    "id": 186,
+    "airportId": 1,
+    "date": "2024-06-03",
+    "flightNumber": "SW5685",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 187,
+    "airportId": 4,
+    "date": "2024-08-19",
+    "flightNumber": "DL1858",
+    "destination": "Detroit"
+  },
+  {
+    "id": 188,
+    "airportId": 5,
+    "date": "2024-05-30",
+    "flightNumber": "AA2150",
+    "destination": "San Diego"
+  },
+  {
+    "id": 189,
+    "airportId": 5,
+    "date": "2024-07-09",
+    "flightNumber": "UA5095",
+    "destination": "Orlando"
+  },
+  {
+    "id": 190,
+    "airportId": 7,
+    "date": "2024-06-11",
+    "flightNumber": "SW7135",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 191,
+    "airportId": 6,
+    "date": "2024-07-05",
+    "flightNumber": "BA9940",
+    "destination": "Detroit"
+  },
+  {
+    "id": 192,
+    "airportId": 1,
+    "date": "2024-07-03",
+    "flightNumber": "AA8702",
+    "destination": "Miami"
+  },
+  {
+    "id": 193,
+    "airportId": 3,
+    "date": "2024-05-28",
+    "flightNumber": "BA6698",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 194,
+    "airportId": 8,
+    "date": "2024-05-26",
+    "flightNumber": "UA7321",
+    "destination": "Las Vegas"
+  },
+  {
+    "id": 195,
+    "airportId": 8,
+    "date": "2024-06-14",
+    "flightNumber": "DL3835",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 196,
+    "airportId": 7,
+    "date": "2024-06-26",
+    "flightNumber": "UA5217",
+    "destination": "Orlando"
+  },
+  {
+    "id": 197,
+    "airportId": 1,
+    "date": "2024-08-22",
+    "flightNumber": "SW6090",
+    "destination": "Miami"
+  },
+  {
+    "id": 198,
+    "airportId": 5,
+    "date": "2024-08-20",
+    "flightNumber": "SW4943",
+    "destination": "Dallas"
+  },
+  {
+    "id": 199,
+    "airportId": 6,
+    "date": "2024-07-26",
+    "flightNumber": "UA4246",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 200,
+    "airportId": 8,
+    "date": "2024-08-12",
+    "flightNumber": "BA9166",
+    "destination": "Dallas"
+  },
+  {
+    "id": 201,
+    "airportId": 3,
+    "date": "2024-07-13",
+    "flightNumber": "AA7064",
+    "destination": "Washington"
+  },
+  {
+    "id": 202,
+    "airportId": 7,
+    "date": "2024-08-06",
+    "flightNumber": "AA4810",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 203,
+    "airportId": 9,
+    "date": "2024-08-18",
+    "flightNumber": "BA2450",
+    "destination": "Detroit"
+  },
+  {
+    "id": 204,
+    "airportId": 10,
+    "date": "2024-08-09",
+    "flightNumber": "SW4077",
+    "destination": "Seattle"
+  },
+  {
+    "id": 205,
+    "airportId": 9,
+    "date": "2024-07-22",
+    "flightNumber": "BA7010",
+    "destination": "Miami"
+  },
+  {
+    "id": 206,
+    "airportId": 8,
+    "date": "2024-08-14",
+    "flightNumber": "DL9887",
+    "destination": "Boston"
+  },
+  {
+    "id": 207,
+    "airportId": 6,
+    "date": "2024-07-31",
+    "flightNumber": "BA9263",
+    "destination": "Orlando"
+  },
+  {
+    "id": 208,
+    "airportId": 1,
+    "date": "2024-06-23",
+    "flightNumber": "BA6860",
+    "destination": "Washington"
+  },
+  {
+    "id": 209,
+    "airportId": 1,
+    "date": "2024-08-23",
+    "flightNumber": "UA2170",
+    "destination": "Miami"
+  },
+  {
+    "id": 210,
+    "airportId": 3,
+    "date": "2024-07-10",
+    "flightNumber": "UA7627",
+    "destination": "Las Vegas"
+  },
+  {
+    "id": 211,
+    "airportId": 10,
+    "date": "2024-07-26",
+    "flightNumber": "BA7848",
+    "destination": "San Diego"
+  },
+  {
+    "id": 212,
+    "airportId": 8,
+    "date": "2024-06-25",
+    "flightNumber": "SW9463",
+    "destination": "Los Angeles"
+  },
+  {
+    "id": 213,
+    "airportId": 2,
+    "date": "2024-07-31",
+    "flightNumber": "AA1712",
+    "destination": "Miami"
+  },
+  {
+    "id": 214,
+    "airportId": 7,
+    "date": "2024-08-18",
+    "flightNumber": "AA3940",
+    "destination": "San Antonio"
+  },
+  {
+    "id": 215,
+    "airportId": 4,
+    "date": "2024-06-27",
+    "flightNumber": "AA5331",
+    "destination": "Denver"
+  },
+  {
+    "id": 216,
+    "airportId": 9,
+    "date": "2024-08-09",
+    "flightNumber": "SW2700",
+    "destination": "New York"
+  },
+  {
+    "id": 217,
+    "airportId": 10,
+    "date": "2024-07-27",
+    "flightNumber": "AA3528",
+    "destination": "Detroit"
+  },
+  {
+    "id": 218,
+    "airportId": 7,
+    "date": "2024-07-21",
+    "flightNumber": "DL2870",
+    "destination": "San Antonio"
+  },
+  {
+    "id": 219,
+    "airportId": 3,
+    "date": "2024-05-31",
+    "flightNumber": "DL8639",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 220,
+    "airportId": 8,
+    "date": "2024-06-20",
+    "flightNumber": "AA1376",
+    "destination": "San Antonio"
+  },
+  {
+    "id": 221,
+    "airportId": 7,
+    "date": "2024-06-26",
+    "flightNumber": "UA5052",
+    "destination": "Seattle"
+  },
+  {
+    "id": 222,
+    "airportId": 9,
+    "date": "2024-08-17",
+    "flightNumber": "BA4884",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 223,
+    "airportId": 8,
+    "date": "2024-08-19",
+    "flightNumber": "BA6722",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 224,
+    "airportId": 1,
+    "date": "2024-06-26",
+    "flightNumber": "UA9906",
+    "destination": "Houston"
+  },
+  {
+    "id": 225,
+    "airportId": 9,
+    "date": "2024-06-01",
+    "flightNumber": "DL9170",
+    "destination": "Denver"
+  },
+  {
+    "id": 226,
+    "airportId": 1,
+    "date": "2024-08-11",
+    "flightNumber": "SW2441",
+    "destination": "Chicago"
+  },
+  {
+    "id": 227,
+    "airportId": 7,
+    "date": "2024-05-31",
+    "flightNumber": "BA3548",
+    "destination": "New York"
+  },
+  {
+    "id": 228,
+    "airportId": 7,
+    "date": "2024-07-05",
+    "flightNumber": "AA4918",
+    "destination": "Detroit"
+  },
+  {
+    "id": 229,
+    "airportId": 6,
+    "date": "2024-07-15",
+    "flightNumber": "UA9159",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 230,
+    "airportId": 10,
+    "date": "2024-08-16",
+    "flightNumber": "DL3389",
+    "destination": "Seattle"
+  },
+  {
+    "id": 231,
+    "airportId": 6,
+    "date": "2024-08-12",
+    "flightNumber": "SW4913",
+    "destination": "Detroit"
+  },
+  {
+    "id": 232,
+    "airportId": 10,
+    "date": "2024-06-22",
+    "flightNumber": "UA2418",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 233,
+    "airportId": 6,
+    "date": "2024-06-01",
+    "flightNumber": "UA5972",
+    "destination": "Dallas"
+  },
+  {
+    "id": 234,
+    "airportId": 8,
+    "date": "2024-07-14",
+    "flightNumber": "SW9083",
+    "destination": "Los Angeles"
+  },
+  {
+    "id": 235,
+    "airportId": 3,
+    "date": "2024-07-03",
+    "flightNumber": "UA2050",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 236,
+    "airportId": 4,
+    "date": "2024-07-13",
+    "flightNumber": "AA5417",
+    "destination": "Seattle"
+  },
+  {
+    "id": 237,
+    "airportId": 5,
+    "date": "2024-06-21",
+    "flightNumber": "BA9594",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 238,
+    "airportId": 9,
+    "date": "2024-07-22",
+    "flightNumber": "DL9708",
+    "destination": "Philadelphia"
+  },
+  {
+    "id": 239,
+    "airportId": 1,
+    "date": "2024-07-10",
+    "flightNumber": "AA5844",
+    "destination": "Orlando"
+  },
+  {
+    "id": 240,
+    "airportId": 9,
+    "date": "2024-08-14",
+    "flightNumber": "BA5407",
+    "destination": "San Diego"
+  },
+  {
+    "id": 241,
+    "airportId": 1,
+    "date": "2024-07-05",
+    "flightNumber": "SW6040",
+    "destination": "Las Vegas"
+  },
+  {
+    "id": 242,
+    "airportId": 6,
+    "date": "2024-07-08",
+    "flightNumber": "DL1298",
+    "destination": "Denver"
+  },
+  {
+    "id": 243,
+    "airportId": 4,
+    "date": "2024-07-01",
+    "flightNumber": "UA4887",
+    "destination": "Detroit"
+  },
+  {
+    "id": 244,
+    "airportId": 9,
+    "date": "2024-07-17",
+    "flightNumber": "AA3845",
+    "destination": "Chicago"
+  },
+  {
+    "id": 245,
+    "airportId": 3,
+    "date": "2024-07-01",
+    "flightNumber": "DL3473",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 246,
+    "airportId": 3,
+    "date": "2024-07-04",
+    "flightNumber": "SW8224",
+    "destination": "New York"
+  },
+  {
+    "id": 247,
+    "airportId": 8,
+    "date": "2024-07-31",
+    "flightNumber": "AA1782",
+    "destination": "Miami"
+  },
+  {
+    "id": 248,
+    "airportId": 2,
+    "date": "2024-07-25",
+    "flightNumber": "DL4017",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 249,
+    "airportId": 7,
+    "date": "2024-06-13",
+    "flightNumber": "UA3447",
+    "destination": "San Antonio"
+  },
+  {
+    "id": 250,
+    "airportId": 8,
+    "date": "2024-07-27",
+    "flightNumber": "UA5568",
+    "destination": "Chicago"
+  },
+  {
+    "id": 251,
+    "airportId": 10,
+    "date": "2024-07-07",
+    "flightNumber": "BA6997",
+    "destination": "Los Angeles"
+  },
+  {
+    "id": 252,
+    "airportId": 9,
+    "date": "2024-06-17",
+    "flightNumber": "UA8836",
+    "destination": "Orlando"
+  },
+  {
+    "id": 253,
+    "airportId": 6,
+    "date": "2024-07-18",
+    "flightNumber": "SW4004",
+    "destination": "Detroit"
+  },
+  {
+    "id": 254,
+    "airportId": 3,
+    "date": "2024-07-30",
+    "flightNumber": "DL3974",
+    "destination": "Orlando"
+  },
+  {
+    "id": 255,
+    "airportId": 1,
+    "date": "2024-06-05",
+    "flightNumber": "BA2944",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 256,
+    "airportId": 3,
+    "date": "2024-08-06",
+    "flightNumber": "SW8702",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 257,
+    "airportId": 1,
+    "date": "2024-07-28",
+    "flightNumber": "UA2048",
+    "destination": "Las Vegas"
+  },
+  {
+    "id": 258,
+    "airportId": 4,
+    "date": "2024-07-10",
+    "flightNumber": "DL3303",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 259,
+    "airportId": 6,
+    "date": "2024-07-13",
+    "flightNumber": "SW8930",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 260,
+    "airportId": 7,
+    "date": "2024-06-21",
+    "flightNumber": "UA8499",
+    "destination": "Boston"
+  },
+  {
+    "id": 261,
+    "airportId": 3,
+    "date": "2024-07-12",
+    "flightNumber": "SW3310",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 262,
+    "airportId": 8,
+    "date": "2024-06-09",
+    "flightNumber": "AA3748",
+    "destination": "Seattle"
+  },
+  {
+    "id": 263,
+    "airportId": 4,
+    "date": "2024-07-03",
+    "flightNumber": "BA6308",
+    "destination": "Houston"
+  },
+  {
+    "id": 264,
+    "airportId": 10,
+    "date": "2024-06-25",
+    "flightNumber": "SW3890",
+    "destination": "Dallas"
+  },
+  {
+    "id": 265,
+    "airportId": 3,
+    "date": "2024-06-30",
+    "flightNumber": "SW7303",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 266,
+    "airportId": 1,
+    "date": "2024-07-05",
+    "flightNumber": "UA6345",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 267,
+    "airportId": 6,
+    "date": "2024-08-22",
+    "flightNumber": "AA6976",
+    "destination": "Houston"
+  },
+  {
+    "id": 268,
+    "airportId": 4,
+    "date": "2024-07-07",
+    "flightNumber": "UA2962",
+    "destination": "Dallas"
+  },
+  {
+    "id": 269,
+    "airportId": 8,
+    "date": "2024-07-12",
+    "flightNumber": "UA1441",
+    "destination": "San Diego"
+  },
+  {
+    "id": 270,
+    "airportId": 3,
+    "date": "2024-06-08",
+    "flightNumber": "AA9383",
+    "destination": "Orlando"
+  },
+  {
+    "id": 271,
+    "airportId": 7,
+    "date": "2024-06-01",
+    "flightNumber": "UA9135",
+    "destination": "Houston"
+  },
+  {
+    "id": 272,
+    "airportId": 4,
+    "date": "2024-06-01",
+    "flightNumber": "SW8127",
+    "destination": "Houston"
+  },
+  {
+    "id": 273,
+    "airportId": 10,
+    "date": "2024-08-04",
+    "flightNumber": "SW7266",
+    "destination": "San Diego"
+  },
+  {
+    "id": 274,
+    "airportId": 10,
+    "date": "2024-08-08",
+    "flightNumber": "DL5336",
+    "destination": "Washington"
+  },
+  {
+    "id": 275,
+    "airportId": 7,
+    "date": "2024-05-30",
+    "flightNumber": "AA4686",
+    "destination": "Houston"
+  },
+  {
+    "id": 276,
+    "airportId": 10,
+    "date": "2024-06-18",
+    "flightNumber": "SW5523",
+    "destination": "Detroit"
+  },
+  {
+    "id": 277,
+    "airportId": 5,
+    "date": "2024-08-01",
+    "flightNumber": "UA1216",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 278,
+    "airportId": 4,
+    "date": "2024-06-16",
+    "flightNumber": "UA4400",
+    "destination": "Los Angeles"
+  },
+  {
+    "id": 279,
+    "airportId": 10,
+    "date": "2024-08-06",
+    "flightNumber": "UA5577",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 280,
+    "airportId": 5,
+    "date": "2024-06-04",
+    "flightNumber": "BA2236",
+    "destination": "San Diego"
+  },
+  {
+    "id": 281,
+    "airportId": 2,
+    "date": "2024-07-20",
+    "flightNumber": "BA1568",
+    "destination": "New York"
+  },
+  {
+    "id": 282,
+    "airportId": 2,
+    "date": "2024-08-18",
+    "flightNumber": "DL3989",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 283,
+    "airportId": 5,
+    "date": "2024-08-11",
+    "flightNumber": "DL6052",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 284,
+    "airportId": 1,
+    "date": "2024-07-02",
+    "flightNumber": "SW4364",
+    "destination": "Denver"
+  },
+  {
+    "id": 285,
+    "airportId": 2,
+    "date": "2024-07-07",
+    "flightNumber": "SW8885",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 286,
+    "airportId": 8,
+    "date": "2024-08-04",
+    "flightNumber": "SW3794",
+    "destination": "Miami"
+  },
+  {
+    "id": 287,
+    "airportId": 8,
+    "date": "2024-08-03",
+    "flightNumber": "BA2630",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 288,
+    "airportId": 7,
+    "date": "2024-07-19",
+    "flightNumber": "BA4179",
+    "destination": "San Diego"
+  },
+  {
+    "id": 289,
+    "airportId": 10,
+    "date": "2024-07-09",
+    "flightNumber": "AA8832",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 290,
+    "airportId": 10,
+    "date": "2024-08-07",
+    "flightNumber": "AA7971",
+    "destination": "Phoenix"
+  },
+  {
+    "id": 291,
+    "airportId": 2,
+    "date": "2024-06-20",
+    "flightNumber": "UA8721",
+    "destination": "Chicago"
+  },
+  {
+    "id": 292,
+    "airportId": 6,
+    "date": "2024-07-09",
+    "flightNumber": "SW3525",
+    "destination": "Washington"
+  },
+  {
+    "id": 293,
+    "airportId": 5,
+    "date": "2024-08-20",
+    "flightNumber": "SW3734",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 294,
+    "airportId": 2,
+    "date": "2024-07-17",
+    "flightNumber": "AA6756",
+    "destination": "San Antonio"
+  },
+  {
+    "id": 295,
+    "airportId": 2,
+    "date": "2024-08-08",
+    "flightNumber": "UA9596",
+    "destination": "Dallas"
+  },
+  {
+    "id": 296,
+    "airportId": 2,
+    "date": "2024-07-11",
+    "flightNumber": "AA4182",
+    "destination": "Minneapolis"
+  },
+  {
+    "id": 297,
+    "airportId": 5,
+    "date": "2024-08-03",
+    "flightNumber": "UA7443",
+    "destination": "Chicago"
+  },
+  {
+    "id": 298,
+    "airportId": 2,
+    "date": "2024-07-27",
+    "flightNumber": "DL8773",
+    "destination": "San Francisco"
+  },
+  {
+    "id": 299,
+    "airportId": 10,
+    "date": "2024-06-01",
+    "flightNumber": "AA6560",
+    "destination": "Atlanta"
+  },
+  {
+    "id": 300,
+    "airportId": 6,
+    "date": "2024-08-18",
+    "flightNumber": "DL3907",
+    "destination": "San Diego"
+  }
+]
