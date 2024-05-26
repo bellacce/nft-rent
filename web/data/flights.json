@@ -742,6 +742,20 @@
     "destination": "New York"
   },
   {
+    "id": 106,
+    "airportId": 6,
+    "date": "2024-05-26",
+    "flightNumber": "AA7020",
+    "destination": "New York"
+  },
+  {
+    "id": 106,
+    "airportId": 6,
+    "date": "2024-05-27",
+    "flightNumber": "AA7020",
+    "destination": "New York"
+  },
+  {
     "id": 107,
     "airportId": 1,
     "date": "2024-06-14",
